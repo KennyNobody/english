@@ -4,17 +4,11 @@ Book: [Essential Grammar in Use](https://online.fliphtml5.com/lhxm/uduw/)
 
 [Summary](red_book/0_summary.md)
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
-|         | Simple  | Continuous | Perfect  | Perfect Continuious |
-|---------|---------|------------|----------|---------------------|
-| Present | do/does | am/is/are  | have/has | have/has            |
-| Past    | did     | was/were   | had      | had                 |
-| Future  | will    | will       | will     | will                |
+|              | **Simple**                                 | **Continuous**                              | **Perfect**        | **Perfect Continuious**   |
+|--------------|--------------------------------------------|---------------------------------------------|--------------------|---------------------------|
+| *Present*    | verb/verb -s \ do/does                     | am/is/are + verb-ing                        | have/has + verb(3) | have/has + been +verb-ing |
+| *Past*       | verb(2) \ did                              | was/were + verb + ing                       | ---                | ---                       |
+| *Future*     | will + verb \ am/is/are + going to + verb  | ---                                         | ---                | ---                       |
 
 ## Present
 
