@@ -4,6 +4,18 @@ Book: [Essential Grammar in Use](https://online.fliphtml5.com/lhxm/uduw/)
 
 [Summary](red_book/0_summary.md)
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
+|         | Simple  | Continuous | Perfect  | Perfect Continuious |
+|---------|---------|------------|----------|---------------------|
+| Present | do/does | am/is/are  | have/has | have/has            |
+| Past    | did     | was/were   | had      | had                 |
+| Future  | will    | will       | will     | will                |
+
 ## Present
 
 - [AM,IS,ARE](red_book/1_am,is,are.md)
